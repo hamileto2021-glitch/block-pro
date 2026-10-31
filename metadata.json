@@ -1,0 +1,6 @@
+{
+  "name": "Blocket Pro",
+  "description": "Blocket and concrete brick production management system with inventory stocks, employees and payroll, sales and payments tracking, and daily financial performance reporting dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
